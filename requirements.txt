@@ -1,0 +1,6 @@
+jupyter
+ipykernel
+requests
+pandas
+numpy
+openap
